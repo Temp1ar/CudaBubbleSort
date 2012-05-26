@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<session version="1" name="nvpProfile" hscale="1.0112083799357013E-4">
+<executable file="D:\Developing\CUDA\Projects\BubbleSort\Debug\BubbleSort.exe" cwd="D:\Developing\CUDA\Projects\BubbleSort\BubbleSort"><envs></envs></executable>
+<expert><columnprops><column kind="BLOCK_SIZE" width="84"/><column kind="THROUGHPUT" width="94"/><column kind="NAME" width="46"/><column kind="STAT_SHARED_MEM" width="91"/><column kind="REGS_PER_THREAD" width="61"/><column kind="START_TIME" width="126"/><column kind="DURATION" width="102"/><column kind="BYTE_SIZE" width="71"/><column kind="GRID_SIZE" width="87"/></columnprops>
+<columnorder><column kind="NAME"/><column kind="START_TIME"/><column kind="DURATION"/><column kind="GRID_SIZE"/><column kind="BLOCK_SIZE"/><column kind="REGS_PER_THREAD"/><column kind="STAT_SHARED_MEM"/><column kind="DYNA_SHARED_MEM"/><column kind="BYTE_SIZE"/><column kind="THROUGHPUT"/></columnorder>
+</expert>
+<analysis><visitedstages><stage name="TIMELINE"/></visitedstages></analysis>
+<vruler width="200"/>
+<hruler roiEnable="false"/>
+<timelinestate>
+<timeline pathname="7508" kind="PROCESS" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="7508/7200" kind="THREAD" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="7508/7200/Runtime API" kind="RUNTIME" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="7508/7200/Driver API" kind="DRIVER" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M" kind="DEVICE" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M/1" kind="CONTEXT" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M/1/MemCpy (HtoD)" kind="MEMCPY_HTOD" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M/1/MemCpy (DtoH)" kind="MEMCPY_DTOH" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M/1/Compute" kind="KERNELS" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M/1/Compute/_Z12swapOnKernelPii" kind="KERNEL" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M/1/Streams" kind="STREAMS" containerstate="OPEN_ALL" filtered="false"/>
+<timeline pathname="GeForce GT 330M/1/Streams/1" kind="STREAM" containerstate="OPEN_ALL" filtered="false"/>
+</timelinestate>
+<pdm>
+H4sIAAAAAAAAAGXWCWwMcRTH8dnd2V5st7SqKNZVqoq2bhFHxJmGUo00rmJDk8YZESFxJO40G+K+6ioRR1AEKeK+b3FGBHFF0whbREn9Z3/z9P+eJq+vs9/PTnczm+wYpmE4DDX29qrp7+83dcYEv69/ti8jo32mUz0Uq2Zsblr6zNl504ZMGeyfMcVfMDQ/Xz1quNXEqHnob2YdGuYi7OyGhuFLxFnJxalJDaAHJ35z6c6pucZqkhaip5Rz59LcYuvxSvTzfYLMmcLt7It+I4s7t+aWqjkwHP34eO7CNBehZvxs9GsLuAvXXKSativQvxRyFyHcgwB6ySruIjXnUZOzHn3P/grmosT7GHgEvcMF7mpobrmaOpfQ/SXRpu5qam6l9Z5Pobd4z51HXLewj+hLE2KYi9ZcvPW6UtGLdnHn1dxuNXk/0kK9XeEbt+5ibGca1dfa+llsXwD5+bOM9Ua75eL492junKFrtDHRtP/39gnoziSTOZd+PnXy4hT0UwO5MzVnfXY2DcYjczO5c2vOutajhqD3yOIuTDjqxgjuwoWj/jqHuwjhLoxE925xMxcp3P0i9JId3EUJt2YXOm398/djTrWbVYyes5e7muJ81Dvv484jXL396L8OcBct3ItD6LTl549c6WH0rUe5ixGO+vxj3NUSbtwJdNrkagvX+yR609PcxQpH3VXKXZxw786g0yZXR7gr59Bpk4sXbu959GUXuasrXP5l9EFXuUsQjnqb69zVE85zE502ufrCld9Cp02ugXB376AfvsddonDUVz/grqFwMx+h0ybXSLjsx+gdn3LXWDjq8c+58wn38wU6bXJNhHv2Ep02uabCnX6Fvvk1d82Eoz7vLXfNhRvzDp02uRbC9fyA7vvEXZJw1B2fuWsp3JsydNrkWgl3qRydNrlk4Yq/oC/5yl1r4ahPCnKXItyA7+i0ybURLvkneo1f3KUKR72skru2wt3+g06bXDvhDlWh0ybXXriAA99Q011hzKUJR32Ym7t04TLC0WmTyxAuLhK9Ioq7DsJRjwrEMddRuINr0APruOsk3LQN6LTJdRYuaxN6+hbuughHPXYbd12FCxahP97BXTfNRWj9Zkt+P97ddvT9b5xdSLdIvbBw6FMzOTM2dET3Hj56Xi97nNVjHVZVYRz2Weie3mG/dod2HBqH698LKSjBfWjBjQq6xfrn+hi47wqd07rpsp+zttQbumk5/sRryucMMvCdj5OFG4WVOG+wuec/q4/1i/6m7yj8JBj9DNznOEPvtWr+X0m9LDc+DQAA</pdm>
+</session>
